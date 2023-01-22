@@ -1,0 +1,4 @@
+{
+  "namespace": "tweaker",
+  "setup": "setup.mjs"
+}
